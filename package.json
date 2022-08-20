@@ -67,6 +67,7 @@
     "exit": "^0.1.2",
     "expect": "^28.1.3",
     "express": "^4.18.1",
+    "exxpress": "^1.0.0",
     "fast-json-stable-stringify": "^2.1.0",
     "fb-watchman": "^2.0.1",
     "fill-range": "^7.0.1",
